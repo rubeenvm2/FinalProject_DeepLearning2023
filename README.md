@@ -22,3 +22,6 @@ This repository contains the final project for the Deep Learning 2023 course. Th
 The results of our experiments and evaluations can be found in the respective sections of this repository. We provide detailed analyses and comparisons of the object detection models implemented in this project.
 
 For more information, please refer to the individual sections and files within this repository.
+Folder with all the files and results:
+https://drive.google.com/drive/folders/131cn2IaFn_q-ijiZFI00Tk3WbRAbb2A1?usp=drive_link
+
