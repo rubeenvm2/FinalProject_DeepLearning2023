@@ -1,4 +1,4 @@
-weights: ../../../yolov5/yolov5s.pt
+weights: yolov5s.pt
 cfg: /content/drive/MyDrive/DeepLearning_2023/FinalProject_DeepLearning2023/yolov5/models/custom_yolov5s.yaml
 data: /content/drive/MyDrive/DeepLearning_2023/FinalProject_DeepLearning2023/LessSize/data_trans.yaml
 hyp:
@@ -32,7 +32,7 @@ hyp:
   copy_paste: 0.0
 epochs: 100
 batch_size: 512
-imgsz: 224
+imgsz: 128
 rect: false
 resume: false
 nosave: false
