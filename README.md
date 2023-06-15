@@ -22,7 +22,7 @@ This repository contains the final project for the Deep Learning 2023 course. Th
 The results of our experiments and evaluations can be found in the respective sections of this repository. We provide detailed analyses and comparisons of the object detection models implemented in this project.
 
 ![Images](https://github.com/rubeenvm2/FinalProject_DeepLearning2023/blob/main/Results/yolov5s_results_augmentation/train_batch0.jpg)
-![Confusion]https://github.com/rubeenvm2/FinalProject_DeepLearning2023/blob/main/Results/yolov5s_results_augmentation/confusion_matrix.png
+![Confusion](https://github.com/rubeenvm2/FinalProject_DeepLearning2023/blob/main/Results/yolov5s_results_augmentation/confusion_matrix.png)
 
 Folder with all the files and results:
 https://drive.google.com/drive/folders/131cn2IaFn_q-ijiZFI00Tk3WbRAbb2A1?usp=drive_link
